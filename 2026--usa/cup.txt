@@ -6,7 +6,7 @@
 #  Mexico City,              Estadio Azteca
 #  Guadalajara (Zapopan),    Estadio Akron
 #  Monterrey (Guadalupe),    Estadio BBVA
-#  Atlanta,                  Mercedes-Benz Stadium
+#  Atlanta,                  Mercedes-Benz Stad ium
 #  Boston (Foxborough),      Gillette Stadium
 #  Dallas (Arlington),       AT&T Stadium
 #  Houston,                  NRG Stadium
@@ -76,7 +76,7 @@ Group L | England    Croatia     Ghana   Panama
 
 ▪ Group A
 Thu June 11
-  13:00 UTC-6     Mexico       v South Africa        @ Mexico City
+  13:00 UTC-6     Mexico       2-0 South Africa      @ Mexico City
   20:00 UTC-6     South Korea  v Czech Republic     @ Guadalajara (Zapopan)
 Thu June 18
   12:00 UTC-4     Czech Republic    v South Africa   @ Atlanta
